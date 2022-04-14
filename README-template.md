@@ -21,11 +21,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Desktop
 
-![desktop](./screenshot.jpg)
+![desktop](https://github.com/andypuddle/Profile-card-component/blob/main/design/my-desktop-screenshot.png)
 
 ### Mobile
 
-![mobile](./screenshot.jpg)
+![mobile](https://github.com/andypuddle/Profile-card-component/blob/main/design/my-mobile-screenshot.png)
 
 ### Links
 
